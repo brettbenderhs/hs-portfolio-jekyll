@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Github
+  link: https://github.com/greatgodapollo
+- name: About
+  link: /about/
+- name: Credits
+  link: /credits/
