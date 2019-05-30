@@ -5,14 +5,8 @@ subtitle: Everything you need to know
 ---
 <div class="tile is-ancestor">
   <div class="tile is-parent is-4">
-    <div class="tile is-child notification is-primary">
-      <p class="title">
-        What is plagiarism?
-      </p>
-      <p class="subtitle">
-        The practice of taking someone else's work and passing it off as your own
-      </p>
-    </div>
+    {% include tile_child.html color="primary" title="What is plagiarism?" 
+    subtitle="The practice of taking some else's work and passing it off as your own" %}
   </div>
   <div class="tile is-parent is-4">
     <div class="tile is-child notification is-light">
@@ -33,6 +27,5 @@ subtitle: Everything you need to know
         Even Even More Stuff
       </p>
     </div>
-    {% include tile_child.html color="primary" title="This is a test" subtitle="A great test" %}
   </div>
 </div>
