@@ -34,5 +34,5 @@ subtitle: Everything you need to know
       </p>
     </div>
   </div>
-  {% include tile_child size="4" color="primary" title="This is a test" subtitle="A great test" %}
+  {% include tile_child.html size="4" color="primary" title="This is a test" subtitle="A great test" %}
 </div>
