@@ -18,7 +18,6 @@ subtitle: Everything you need to know
   <div class="tile is-parent is-4">
     {% include tile_child.html color="link" title="Why do people plagiarize?" 
     subtitle="They're lazy. They panic. They have trouble integrating information into their own writing." %}
-    </div>
   </div>
   
 </div>
