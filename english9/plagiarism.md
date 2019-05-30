@@ -24,9 +24,14 @@ subtitle: Everything you need to know
 
 <div class="tile is-ancestor">
   
-  <div class="tile is-parent is-4">
-    {% include tile_child.html color="link" title="Why shouldn't you plagiarise?"
-    subtitle="Expulsion from academic institutions. Your work being destroyed. Legal actions, fines, penalties." %}
-  </div>
+  <div class="tile is-vertical">
+    <div class="tile is-parent is-4">
+      {% include tile_child.html color="link" title="Why shouldn't you plagiarise?"
+      subtitle="Expulsion from academic institutions. Your work being destroyed. Legal actions, fines, penalties." %}
+    </div>
+    <div class="tile is-parent is-4">
+      {% include tile_child.html color="primary" title="Direct vs. Accidental"
+      subtitle="Direct plagiarism is done by purpose by the author, accidental is done without knowing." %}
+    </div>
   
 </div>
