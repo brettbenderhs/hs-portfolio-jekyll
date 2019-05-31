@@ -57,7 +57,7 @@ subtitle: Everything you need to know
   <div class="tile is-parent is-4">
     <div class="tile is-child notification is-link">
       <p class="title">
-        Consequences in High School
+        Policy in High School
       </p>
       <p class="subtitle">
         <a href="https://mcpasd.k12.wi.us/mhs/node/947/information/academic-integrity-policy">Middleton Academic Integrity Policy</a>
@@ -68,7 +68,7 @@ subtitle: Everything you need to know
   <div class="tile is-parent">
     <div class="tile is-child notification is-primary">
       <p class="title">
-        Consequences in College
+        Policy in College
       </p>
       <p class="subtitle">
         <a href="https://communitystandards.stanford.edu/policies-and-guidance/honor-code">Stanford Honor Code</a>
