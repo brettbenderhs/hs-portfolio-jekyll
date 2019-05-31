@@ -76,5 +76,3 @@ subtitle: Everything you need to know
     </div>
   </div>
 </div>
-  
-</div>
