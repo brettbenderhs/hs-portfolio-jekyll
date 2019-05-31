@@ -54,8 +54,8 @@ subtitle: Everything you need to know
     subtitle="Understand plagiarism. Properly quote and paraphrase. Properly cite sources." %}
   </div>
   
-  <div class="tile is-parent is-4">
-    <div class="tile is-child notification is-light">
+  <div class="tile is-parent is-5">
+    <div class="tile is-child notification is-link">
       <p class="title">
         Plagiarism Consequences in High School
       </p>
