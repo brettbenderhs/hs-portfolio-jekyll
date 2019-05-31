@@ -33,5 +33,12 @@ subtitle: Everything you need to know
       {% include tile_child.html color="primary" title="Direct vs. Accidental"
       subtitle="Direct plagiarism is done by purpose by the author, accidental is done without knowing." %}
     </div>
+  </div>
+  <div class="tile is-vertical">
+    <div class="tile is-parent is-8">
+      {% include tile_child.html color="light" title="Direct Plagiarism"
+      subtitle="Direct plagiarism is the word-for-word transcription of a section of someone else's work, without attribution and without quotation marks." %}
+    </div>
+  </div>
   
 </div>
