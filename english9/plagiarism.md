@@ -54,15 +54,27 @@ subtitle: Everything you need to know
     subtitle="Understand plagiarism. Properly quote and paraphrase. Properly cite sources." %}
   </div>
   
-  <div class="tile is-parent is-5">
+  <div class="tile is-parent is-4">
     <div class="tile is-child notification is-link">
       <p class="title">
-        Plagiarism Consequences in High School
+        Consequences in High School
       </p>
       <p class="subtitle">
         <a href="https://mcpasd.k12.wi.us/mhs/node/947/information/academic-integrity-policy">Middleton Academic Integrity Policy</a>
       </p>
     </div>
   </div>
+  
+  <div class="tile is-parent">
+    <div class="tile is-child notification is-primary">
+      <p class="title">
+        Consequences in College
+      </p>
+      <p class="subtitle">
+        <a href="https://communitystandards.stanford.edu/policies-and-guidance/honor-code">Stanford Honor Code</a>
+      </p>
+    </div>
+  </div>
+</div>
   
 </div>
