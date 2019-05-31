@@ -36,8 +36,12 @@ subtitle: Everything you need to know
   </div>
   <div class="tile is-vertical is-8">
     <div class="tile is-parent">
-      {% include tile_child.html color="light" title="Direct Plagiarism"
+      {% include tile_child.html color="primary" title="Direct Plagiarism"
       subtitle="Direct plagiarism is the word-for-word transcription of a section of someone else's work, without attribution and without quotation marks." %}
+    </div>
+    <div class="tile is-parent">
+      {% include tile_child.html color="light" title="Self Plagiarism"
+      subtitle="Self-plagiarism is the use of one's own previous work in another context without citing that it was used previously." %}
     </div>
   </div>
   
