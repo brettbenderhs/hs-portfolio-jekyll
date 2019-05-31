@@ -46,3 +46,12 @@ subtitle: Everything you need to know
   </div>
   
 </div>
+
+<div class="tile is-ancestor">
+  
+  <div class="tile is-parent is-4">
+    {% include tile_child.html color="link" title="Avoiding Plagiarism"
+    subtitle="Understand plagiarism. Properly quote and paraphrase. Properly cite sources." %}
+  </div>
+  
+</div>
