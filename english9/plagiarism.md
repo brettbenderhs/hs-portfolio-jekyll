@@ -50,8 +50,19 @@ subtitle: Everything you need to know
 <div class="tile is-ancestor">
   
   <div class="tile is-parent is-4">
-    {% include tile_child.html color="link" title="Avoiding Plagiarism"
+    {% include tile_child.html color="light" title="Avoiding Plagiarism"
     subtitle="Understand plagiarism. Properly quote and paraphrase. Properly cite sources." %}
+  </div>
+  
+  <div class="tile is-parent is-4">
+    <div class="tile is-child notification is-light">
+      <p class="title">
+        Plagiarism Consequences in High School
+      </p>
+      <p class="subtitle">
+        <a href="https://mcpasd.k12.wi.us/mhs/node/947/information/academic-integrity-policy">Middleton Academic Integrity Policy</a>
+      </p>
+    </div>
   </div>
   
 </div>
