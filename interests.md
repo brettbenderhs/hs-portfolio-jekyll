@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intrests & Sports
+title: Interests & Sports
 ---
 | Item | Link |
 | ---- | ---- |
