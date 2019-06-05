@@ -10,6 +10,7 @@ subtitle: 2018-19
 | Artifact 2     | [English]({{ "/english9/reflection" | relative_url }}) |
 | Artifact 3     | [Spanish]({{ "/spanish1/reflection" | relative_url }}) |
 | Learning Style | [Learning Style]({{ "/freshman/learningstyles" | relative_url }}) |
+| Careers        | [Career Matchmaking]({{ "/freshman/careers" | relative_url }}) |
 | EOY Reflection | [End of Year Reflection]({{ "/freshman/reflection" | relative_url }}) |
 
 
