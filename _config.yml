@@ -57,7 +57,6 @@ defaults:
     values:
       author: "Brett Bender"
       layout: post
-      image: https://via.placeholder.com/800x600
       show_sidebar: false
 
 
