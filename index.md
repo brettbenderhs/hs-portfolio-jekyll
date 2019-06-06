@@ -42,7 +42,7 @@ hero_height: is-large
       <footer class="card-footer">
         <p class="card-footer-item">
           <span>
-            <a>Coming Soon</a>                              
+            <a>Next Year</a>                              
           </span>
         </p>
       </footer>
