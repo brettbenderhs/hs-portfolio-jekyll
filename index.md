@@ -42,7 +42,7 @@ hero_height: is-large
       <footer class="card-footer">
         <p class="card-footer-item">
           <span>
-            <a>Next Year</a>                              
+            <a href="{{ "/sophomore" | relative_url }}">View</a>
           </span>
         </p>
       </footer>
