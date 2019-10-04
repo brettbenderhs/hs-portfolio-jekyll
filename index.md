@@ -1,6 +1,6 @@
 ---
 title: Brett J. Bender
-subtitle: Freshman at Rio High School 
+subtitle: Student at Rio High School 
 layout: page
 hero_height: is-large
 ---
