@@ -13,6 +13,10 @@ subtitle: Sophomore Year
 - Working with electricity or electronics
 
 ### What are the Central and Secondary Aspects to which you answered Like or Like Very Much? 
+- Programming computers
+- Using math to solve technical or scientific problems
+- Learning about computer applications
+- Working with electricity or electronics
 - Learning about and using physics
 - Working with technical drawings and diagrams
 - Planning how work is to be carried out
