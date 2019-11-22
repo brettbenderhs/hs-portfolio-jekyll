@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brett  Bender
-email: brett@brettbender.me
+email: brett@brettb.xyz
 phone_number: "(608)571-2974"
 description: >- # this means to ignore newlines until "baseurl:"
   Brett Bender's High School Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "hs.brettbender.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hs.brettb.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 
 #theme: bulma-clean-theme
