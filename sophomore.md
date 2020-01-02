@@ -8,3 +8,4 @@ subtitle: 2019-20
 | Schedule       | [Schedule PDF]({{ "/assets/img/2019-20_Schedule.pdf" | relative_url }}) |
 | SMART Goal     | [SMART Goal]({{ "/sophomore/smart" | relative_url }}) |
 | Careers        | [Career Matchmaking]({{ "/sophomore/careers" | relative_url }}) |
+| Artifact 1     | [Algebra II]({{ "/algebraii/reflection" | relative_url }}) |
