@@ -9,3 +9,7 @@ subtitle: 2019-20
 | SMART Goal     | [SMART Goal]({{ "/sophomore/smart" | relative_url }}) |
 | Careers        | [Career Matchmaking]({{ "/sophomore/careers" | relative_url }}) |
 | Artifact 1     | [Algebra II]({{ "/algebraii/reflection" | relative_url }}) |
+
+|    Projects    | Link |
+|      ----      | ---- |
+| Genocide Project | [Bosnia-Herzegovina Genocide]({{ "/geopolitics/genocide" | relative_url }}) |
