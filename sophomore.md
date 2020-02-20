@@ -9,7 +9,7 @@ subtitle: 2019-20
 | SMART Goal     | [SMART Goal]({{ "/sophomore/smart" | relative_url }}) |
 | Careers        | [Career Matchmaking]({{ "/sophomore/careers" | relative_url }}) |
 | Artifact 1     | [Algebra II]({{ "/algebraii/reflection" | relative_url }}) |
-| Artifact 2     | [Geopolitics]({{ "/geopolitics/reflection" | relative_url }}) |
+| Artifact 2     | [Geopolitics](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<sub><sup><sub><sup>[The Actual Link]({{ "/geopolitics/reflection" | relative_url }})</sup></sub></sup></sub> |
 
 |    Projects    | Link |
 |      ----      | ---- |
