@@ -1,56 +1,80 @@
-<!doctype html>
+---
+layout: blank
+---
+<!doctype HTML>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-    <style>
-      body {
-        padding-top: 4.5rem;
-      }
-    </style>
-    
-    <title>Glory to Arstotzka</title>
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-      <a class="navbar-brand" href="#">Arstotzka</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Welcome</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Structure</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Code</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Policies</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    
-    <main role="main" class="container">
-      <div class="jumbotron">
-        <h1 id="welcome">Glory to Arstotzka!</h1>
-        <p class="lead">Welcome to the beautiful country of Arstotzka.</p>
-        <a class="btn btn-lg btn-primary" href="#" role="button">Learn About Us &raquo;</a>
-      </div>
-    </main>
-    
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-  </body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Brett Bender">
+    <meta name="author" content="Brett Bender">
+    <meta name="theme-color" content="#000000">
+    <meta property="og:title" content="Glory To Arstotzka">
+    <meta property="og:site_name" content="Glory To Artstotzka">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Brett Bender Create Your Own Country - Geopolitics Assignment">
+    <title>Glory To Arstotzka</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <script src="/assets/js/bulma-js/bulma.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+</head>
+<body>
+<!-- NavBar -->
+<nav class="navbar is-dark is-transparent is-shady-nav is-spaced has-background-dark">
+    <div class="navbar-brand">
+        <span class="navbar-item text-monsterrat is-size-4">
+            Arstotzka
+        </span>
+        <span class="navbar-burger burger" id="nav-burger" data-target="nav-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+        </span>
+    </div>
+    <div id="nav-menu" class="navbar-menu has-background-dark">
+        <div class="navbar-end">
+            <a class="navbar-item has-text-white has-background-dark" href="#">
+                  <span>About</span>
+            </a>
+            <a class="navbar-item has-text-white has-background-dark" href="#">
+                  <span>Government</span>
+            </a>
+            <a class="navbar-item has-text-white has-background-dark" href="#">
+                  <span>Laws</span>
+            </a>
+            <a class="navbar-item has-text-white has-background-dark" href="#">
+                  <span>Trade</span>
+            </a>
+        </div>
+    </div>
+</nav>
+<div id="body" class="has-background-black-ter">
+    <section class="hero is-dark is-bold is-fullheight is-fullheight-with-navbar">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    Glory To Arstotzka
+                </h1>
+                <h2 class="subtitle">
+                    Welcome to the beautiful country of Arstotzka
+                </h2>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="box cta has-background-grey-dark is-bold has-text-white">
+            <div class="container">
+                <p class="has-text-centered">
+                    <span class="tag is-primary">Info</span> Scroll down to learn more
+                </p>
+            </div>
+        </div>
+    </section>
+</div>
+</body>
 </html>
