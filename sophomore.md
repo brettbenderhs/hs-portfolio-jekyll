@@ -10,6 +10,7 @@ subtitle: 2019-20
 | Careers        | [Career Matchmaking]({{ "/sophomore/careers" | relative_url }}) |
 | Artifact 1     | [Algebra II]({{ "/algebraii/reflection" | relative_url }}) |
 | Artifact 2     | [Geopolitics]({{ "/geopolitics/reflect" | relative_url }})<sub><sup><sub><sup>[The Actual Link]({{ "/geopolitics/reflection" | relative_url }})</sup></sub></sup></sub> |
+| EOY Reflection | [Reflection]({{ "/sophomore/reflection" | relative_url }})
 
 |    Projects    | Link |
 |      ----      | ---- |
