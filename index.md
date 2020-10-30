@@ -63,7 +63,7 @@ hero_height: is-large
       <footer class="card-footer">
         <p class="card-footer-item">
           <span>
-            <a>Coming Soon</a>
+		  <a href="{{ "/junior" | relative_url }}">Coronavirus</a>
           </span>
         </p>
       </footer>
